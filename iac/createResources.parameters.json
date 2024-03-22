@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "env": {
-     "value": ""
+     "value": "466"
     },
     "sqlPassword": {
-     "value": ""
+     "value": "Password.1!"
     },
     "aksLinuxAdminUsername": {
       "value": "localadmin"
